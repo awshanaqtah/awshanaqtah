@@ -25,7 +25,7 @@ Founder & Owner of **ChaosX** — building innovative software and pushing creat
 ## Current Projects
 
 
-🚀 Current Projects
+- **Current Projects**
 
 - **Gravity Sort Algorithm** - A custom sorting algorithm project
 - **ChaosX** - Game Engine + Search Engine
