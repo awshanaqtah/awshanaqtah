@@ -22,15 +22,14 @@ Founder & Owner of **ChaosX** — building innovative software and pushing creat
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
-| Project | Description |
-|---|---|
-|  **Gravity Sort Algorithm** | A custom sorting algorithm project |
-| **ChaosX** | Company projects and internal tooling |
-|  **Health Navigator** | A health-focused application |
-|  **Image Processing & Training (YOLO)** | Computer vision using YOLO for detection & training |
-|  **Other Projects** | More coming soon... |
+
+ **Gravity Sort Algorithm** A custom sorting algorithm project 
+ **ChaosX**  Company projects and internal tooling
+ **Health Navigator**  A health-focused application 
+ **Image Processing & Training (YOLO)** | Computer vision using YOLO for detection & training |
+ 
 
 ---
 
